@@ -1,3 +1,4 @@
+//This is a program for structure of structures
 #include <stdio.h>
 #include<stdlib.h>
 #include<string.h>
